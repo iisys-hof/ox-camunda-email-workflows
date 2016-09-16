@@ -1,0 +1,12 @@
+Source: ox-camunda-email-workflows
+Section: non-free/web
+Priority: optional
+Maintainer: "Christian Ochsenkühn" <christian.ochsenkuehn@iisys.de>
+Build-Depends: debhelper (>= 8.0.0), nodejs (>= 0.10)
+Standards-Version: 3.9.2
+
+Package: ox-camunda-email-workflows
+Architecture: all
+Depends: ${misc:Depends}, open-xchange-appsuite-manifest
+Description: Put your description here!
+

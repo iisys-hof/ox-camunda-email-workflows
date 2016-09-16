@@ -1,0 +1,24 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ox-camunda-email-workflows\n"
+"PO-Revision-Date: 2016-03-01 11:29+0100\n"
+"Language-Team: NAME <EMAIL>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.7\n"
+"Last-Translator: \n"
+"Language: de_DE\n"
+
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:98
+#: module:.de.iisys.ox.camunda-tasks/register
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:110
+msgid "Start Workflow"
+msgstr "Starte Workflow"
+
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:109
+#: module:.de.iisys.ox.camunda-tasks/register
+msgid "Cancel"
+msgstr "Abbrechen"
