@@ -1,0 +1,17 @@
+{
+    "appserver": {
+        "protocol": "https",
+        "livereload": true,
+        "server": "http://gold.core.ox.io/appsuite/",
+        "rejectUnauthorized": true,
+        "verbose": ["local.error"],
+        "prefixes": [
+            "build/"
+        ],
+        "manifests": [
+            "build/manifests/"
+        ]
+    },
+    "debug": false,
+    "coreDir": "build"
+}
