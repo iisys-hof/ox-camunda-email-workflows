@@ -9,7 +9,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
 
-#: apps/de.iisys.ox.camunda-email-workflows/register.js:98
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:95
 #: module:de.iisys.ox.camunda-email-workflows/register
 #: apps/de.iisys.ox.camunda-email-workflows/register.js:110
 msgid "Start Workflow"
@@ -18,4 +18,19 @@ msgstr ""
 #: apps/de.iisys.ox.camunda-email-workflows/register.js:109
 #: module:de.iisys.ox.camunda-email-workflows/register
 msgid "Cancel"
+msgstr ""
+
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:187
+#: module:de.iisys.ox.camunda-email-workflows/register
+msgid "Description"
+msgstr ""
+
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:215
+#: module:de.iisys.ox.camunda-email-workflows/register
+msgid "Content of the mail"
+msgstr ""
+
+#: apps/de.iisys.ox.camunda-email-workflows/register.js:259
+#: module:de.iisys.ox.camunda-email-workflows/register
+msgid "Successfully started workflow."
 msgstr ""

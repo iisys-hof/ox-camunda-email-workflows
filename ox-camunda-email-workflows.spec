@@ -11,7 +11,7 @@ Group:          Applications/Productivity
 Vendor:         Open-Xchange
 URL:            http://open-xchange.com
 Packager:       "Christian Ochsenkühn" <christian.ochsenkuehn@iisys.de>
-License:        CC BY-SA-NC
+License:        MIT
 Summary:        Put your summary here!
 Source:         %{name}_%{version}.orig.tar.gz
 # use the next line to run build with bz2 compressed sources

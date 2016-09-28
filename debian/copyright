@@ -1,7 +1,0 @@
-Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: ox-camunda-email-workflows
-Upstream-Contact: "Christian Ochsenkühn" <christian.ochsenkuehn@iisys.de>
-
-Files: *
-Copyright: (c) 2016 iisys / sc-hub.de
-License: MIT
